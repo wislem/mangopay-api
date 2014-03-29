@@ -1,4 +1,4 @@
-laravel-mangopay
+mangopay-api
 ================
 
 This is my first contribution ever, so be gentle!
