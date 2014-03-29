@@ -1,4 +1,4 @@
-mangopay-api
+MangoPay API for laravel
 ================
 
 This is my first contribution ever, so be gentle!
